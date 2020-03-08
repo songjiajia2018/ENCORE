@@ -1,5 +1,5 @@
 # ENCORE
-Entropy Subspace Separation-based Clustering for Noise Reduction (ENCORE) of scRNA-seq
+
 
 Install
 #Download the source code from github, and install as fellow
